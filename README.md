@@ -1,6 +1,5 @@
 ## 개발환경
 
----
 
 1. **IDE**: IntelliJ IDEA Community
 2. **Spring Boot**: 3.5.0
@@ -11,7 +10,6 @@
 
 ## 게시판 주요기능
 
----
 
 1. **글쓰기** `(/board/save)`
 2. **글목록** `(/board/)`
